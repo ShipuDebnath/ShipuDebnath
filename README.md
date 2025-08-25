@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Shipu Debnath's GitHub Hub
 
 🌍 **Geographer & Urban Planner on a Mission**: Turning data chaos into climate-smart insights. MS candidate at Texas Tech (GPA 3.86), mapping wind patterns & urban vibes with GIS wizardry. From Dhaka streets to Lubbock labs, I'm decoding human-environment puzzles for a sustainable tomorrow.
