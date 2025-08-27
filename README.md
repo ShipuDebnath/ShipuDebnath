@@ -15,4 +15,4 @@
 
 Explore my repos for code adventures in sustainability & spatial magic. Let's collaborate on planet-saving tech! 🚀
 
-[LinkedIn](https://linkedin.com/in/your-profile) | [Google Scholar](https://scholar.google.com/citations?user=your-id) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://linkedin.com/in/shipudebnath/) | [Google Scholar](https://scholar.google.com/citations?user=your-id) | [Portfolio](https://your-portfolio.com)
