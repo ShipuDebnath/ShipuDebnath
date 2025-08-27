@@ -7,11 +7,11 @@
 - **Wins**: Published in top journals, Texas Tech scholarships, quiz champ in environmental Olympiads.
 
 ### Featured Projects
-- **[ames-housing-price-prediction](https://github.com/your-username/ames-housing-price-prediction)**: Predicting Iowa home prices with regression magic—living area & zoning decoded!
-- **[lubbock-reviews-analysis](https://github.com/your-username/lubbock-reviews-analysis)**: Text-mining Lubbock vibes: Word clouds, trigrams, and sentiment from reviews.
-- **[ames-housing-correlation-analysis](https://github.com/your-username/ames-housing-correlation-analysis)**: Correlation showdown in Ames housing—custom sims & scatter plots for price trends.
-- **[earthquake-activity-analysis](https://github.com/your-username/earthquake-activity-analysis)**: Shaking up data: Magnitude maps, t-tests, and 30-day quake trends across the U.S.
-- **[gun-ownership-analysis](https://github.com/your-username/gun-ownership-analysis)**: GSS insights: Gun stats by gender & region, with chi-squares and census maps.
+- **[ames-housing-price-prediction](https://github.com/ShipuDebnath/ames-housing-price-prediction)**: Predicting Iowa home prices with regression magic—living area & zoning decoded!
+- **[lubbock-reviews-analysis](https://github.com/ShipuDebnath/lubbock-reviews-analysis)**: Text-mining Lubbock vibes: Word clouds, trigrams, and sentiment from reviews.
+- **[ames-housing-correlation-analysis](https://github.com/ShipuDebnath/ames-housing-correlation-analysis)**: Correlation showdown in Ames housing—custom sims & scatter plots for price trends.
+- **[earthquake-activity-analysis](https://github.com/ShipuDebnath/earthquake-activity-analysis)**: Shaking up data: Magnitude maps, t-tests, and 30-day quake trends across the U.S.
+- **[gun-ownership-analysis](https://github.com/ShipuDebnath/gun-ownership-analysis)**: GSS insights: Gun stats by gender & region, with chi-squares and census maps.
 
 Explore my repos for code adventures in sustainability & spatial magic. Let's collaborate on planet-saving tech! 🚀
 
